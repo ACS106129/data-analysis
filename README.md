@@ -1,6 +1,6 @@
-# Club Grade Analysis
+# Grade Analysis
 
-Analyze 4 yrs grade trends between joining the university club or not
+Analyze 4 yrs grade trend between joining the university club or not
 
 ## Env
 
